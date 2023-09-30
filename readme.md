@@ -6,6 +6,4 @@ Build instructions
   `git submodule add 'https://github.com/miniat-amos/TeenyAT.git' robot_vm`
 4. Compile with `make`
 5. Run the executable with `./robots`
-5. Get robot programs from --link to be created--
-6. Add them to the Arena with the File Dialogue
-7. Run the Arena with Create Arena
+5. All set. Get robot programs from --link to be created-- and use them in your arena.
