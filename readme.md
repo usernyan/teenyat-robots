@@ -7,3 +7,5 @@ Build instructions
 4. Compile with `make`
 5. Run the executable with `./robots`
 5. All set. Get robot programs from --link to be created-- and use them in your arena.
+
+![](https://github.com/usernyan/teenyat-robots/blob/master/robots-rec.gif?raw=true)
