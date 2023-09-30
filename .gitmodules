@@ -4,3 +4,6 @@
 [submodule "robot_vm"]
 	path = robot_vm
 	url = https://github.com/miniat-amos/TeenyAT.git
+[submodule "teenyat-programs"]
+	path = teenyat-programs
+	url = https://github.com/usernyan/robots-repo.git
