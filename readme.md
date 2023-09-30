@@ -7,3 +7,5 @@ Build instructions
 4. Compile with `make`
 5. Run the executable with `./robots`
 5. Get robot programs from --link to be created--
+6. Add them to the Arena with the File Dialogue
+7. Run the Arena with Create Arena
